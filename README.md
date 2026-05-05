@@ -2,7 +2,7 @@
 # Amazon Sales Analytics – Power BI Dashboard (README.md)
 
 ## 📌 Overview
-This README provides a professional, panel‑ready explanation of the complete **Amazon Sales Analytics BI Solution**, developed using **Microsoft Fabric**, **PySpark Notebooks**, **Lakehouse**, **Semantic Models**, and **Power BI Desktop**.
+ **Amazon Sales Analytics BI Solution**, developed using **Microsoft Fabric**, **PySpark Notebooks**, **Lakehouse**, **Semantic Models**, and **Power BI Desktop**.
 
 It summarizes the **end‑to‑end architecture**, **data engineering workflow**, **semantic modeling**, **key metrics**, **visual insights**, and **business outcomes**.
 
@@ -187,43 +187,11 @@ Revenue cycles indicate clear **forecastable patterns**.
 
 ---
 
-# 4. 🧠 Why This Dashboard Impresses Interview Panels
-- Fully connected **Fabric engineering → BI workflow**
-- Clean DAX‑driven **semantic model architecture**
-- Automated refresh pipeline
-- Executive‑friendly design with strong storytelling
-- Deep analytical views across product, region, payment, and time
-- Professional readability and enterprise framing
+#### Author -->
+--- **Syed**
 
----
 
-# 5. 🎤 How To Present This in Interviews
-Use this flow:
-1. Start with **data ingestion & Fabric workflow**
-2. Explain Notebook‑based transformations
-3. Show Semantic Model + relationships
-4. Discuss DAX metrics and why they matter
-5. Walk through each Power BI page logically
-6. Highlight business insights and decision impacts
-7. Emphasize automation & governance
+**-----------Thank You 💐💐---------**
 
-This structure demonstrates your **end‑to‑end BI ownership**.
 
----
 
-# 6. 📘 Final Notes
-This README includes:
-- Complete architecture flow
-- File path and Fabric workflow
-- Notebook transformation logic
-- Semantic model structure & measures
-- Automated pipeline
-- Dashboard insights & business outcomes
-
-If you want:
-- A **DAX Appendix** section
-- A **Data Model Diagram (ERD)**
-- A **PDF export**
-- A **Technical Architecture Diagram**
-
-Just tell me — I can add it anytime!
